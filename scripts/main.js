@@ -1,5 +1,5 @@
 // CHANGES MADE
-// 1. add pairings function to HTML string
+// 1. ADD PAITRINGS FUNCTION TO HTML STRING
 
 
 import { Pairings } from "./Pairings.js"
